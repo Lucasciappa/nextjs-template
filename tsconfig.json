@@ -20,6 +20,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "**/*.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "**/*.js", "pages/_app.jsx", "pages/index.jsx", "components/Header.jsx", "components/Footer.jsx", "pages/_document.jsx"],
   "exclude": ["node_modules", ".next", ".vercel", "out"]
 }
