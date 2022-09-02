@@ -2,7 +2,7 @@ import { NextSeo } from "next-seo";
 import { useRouter } from "next/router";
 
 export default function Header() {
-  const title = "Gonzalo Giudice DJs";
+  const title = "Gonzalo Giudice DJ";
   const desc =
     "I'm a tech founder, digital nomad, and a fun guy to hang around with. I like to build things that others find helpful.";
   const ogImgRelativePath = "/og.jpg";
